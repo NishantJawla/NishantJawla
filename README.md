@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on making 𝖜𝖊𝖇 𝕭𝖊𝖆𝖚𝖙𝖎𝖋𝖚𝖑.
+- 🌱 I’m currently learning 𝙛𝙪𝙡𝙡-𝙨𝙩𝙖𝙘𝙠 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩.
 
 <!--
 **NishantJawla/NishantJawla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
