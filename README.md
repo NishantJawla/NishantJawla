@@ -1,10 +1,10 @@
 
-<a  href="#"><img src="https://github.com/NishantJawla/NishantJawla/blob/master/logo/linkedin.png" width="40" /></a> &nbsp; 
-<a  href="#"><img src="https://github.com/NishantJawla/NishantJawla/blob/master/logo/instagram.png" width="40" /></a> &nbsp; 
-<a  href="#"><img src="https://github.com/NishantJawla/NishantJawla/blob/master/logo/twitter.png" width="40" /></a>
+<a  href="https://www.linkedin.com/in/nishant-jawla/"><img src="https://github.com/NishantJawla/NishantJawla/blob/master/logo/linkedin.png" width="40" /></a> &nbsp; 
+<a  href="https://www.instagram.com/iamnishantjawla/"><img src="https://github.com/NishantJawla/NishantJawla/blob/master/logo/instagram.png" width="40" /></a> &nbsp; 
+<a  href="https://twitter.com/jawla_nishant"><img src="https://github.com/NishantJawla/NishantJawla/blob/master/logo/twitter.png" width="40" /></a>
 
 
-<img src="https://github.com/NishantJawla/NishantJawla/blob/master/nj1.gif">
+<img src="https://github.com/NishantJawla/NishantJawla/blob/master/nj2.gif">
 
 <img align="left" src="https://github.com/NishantJawla/NishantJawla/blob/master/giphy.gif" width="150" />
 <p align="center" widht="300"> I am pursuing my Bachelor's Degree in Computer Science & Engineering from KIET Group of Institutions.
@@ -38,8 +38,6 @@ If not coding or designing you'll find me with my guitar or maybe in the world m
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
