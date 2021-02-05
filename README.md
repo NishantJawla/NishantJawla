@@ -30,7 +30,8 @@ If not coding or designing you'll find me with my guitar or maybe in the world m
 
 - 📫 How to reach me **Just text me on LinkedIn, Insta etc.**
 
-- ⚡ Fun fact **If computer programming was a country it would be the third most diversive in the number of languages with 698, after Papua New Guinea and Indonesia whom each have 700 and 836 respectively**
+- ⚡ Fun fact **"JS is one of the most lovable programming language. And there are many JS developers r present in the community. So, are you dating someone?😅🎉"
+IF NO THEN BE READY TO FIND SOMEONE😂 BECAUSE Even you try to hide your problem, we’ll catch it and resolve it**
 
 
 <h1 align="center"></h1>
