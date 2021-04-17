@@ -24,7 +24,7 @@ If not coding or designing you'll find me with my guitar or maybe in the world m
 
 - 👯 I’m looking to collaborate on **Anything that make me learn something new🙌**
 
-- Currently working on a website for my Podcast. <a href="https://github.com/NishantJawla/ACupof20">**clich here**</a> to check it out.
+- Currently working on a website for my Podcast. <a href="https://github.com/NishantJawla/ACupof20">**click here**</a> to check it out.
 
 - 💬 Ask me about **Universe🔯 (I really read about it sometimes😅) or some tech book/series**
 
