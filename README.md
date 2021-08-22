@@ -4,7 +4,7 @@
 <a  href="https://twitter.com/jawla_nishant"><img src="https://github.com/NishantJawla/NishantJawla/blob/master/logo/twitter.png" width="40" /></a>
 
 
-<img src="https://github.com/NishantJawla/NishantJawla/blob/master/nj2.gif">
+<img src="https://github.com/NishantJawla/NishantJawla/blob/master/nj3.png">
 
 <img align="left" src="https://github.com/NishantJawla/NishantJawla/blob/master/giphy.gif" width="150" />
 <p align="center" widht="300"> I am pursuing my Bachelor's Degree in Computer Science & Engineering from KIET Group of Institutions.
