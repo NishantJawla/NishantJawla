@@ -1,37 +1,32 @@
 
 <a  href="https://www.linkedin.com/in/nishant-jawla/"><img src="https://github.com/NishantJawla/NishantJawla/blob/master/logo/linkedin.png" width="40" /></a> &nbsp; 
 <a  href="https://www.instagram.com/iamnishantjawla/"><img src="https://github.com/NishantJawla/NishantJawla/blob/master/logo/instagram.png" width="40" /></a> &nbsp; 
-<a  href="https://twitter.com/jawla_nishant"><img src="https://github.com/NishantJawla/NishantJawla/blob/master/logo/twitter.png" width="40" /></a>
+<a  href="https://twitter.com/NishantJawla13"><img src="https://github.com/NishantJawla/NishantJawla/blob/master/logo/twitter.png" width="40" /></a>
 
-
-<img src="https://github.com/NishantJawla/NishantJawla/blob/master/nj3.png">
-
-<img align="left" src="https://github.com/NishantJawla/NishantJawla/blob/master/giphy.gif" width="150" />
-<p align="center" widht="300"> I am pursuing my Bachelor's Degree in Computer Science & Engineering from KIET Group of Institutions.
+<!-- <img align="left" src="https://github.com/NishantJawla/NishantJawla/blob/master/giphy.gif" width="150" /> -->
+<p align="center" widht="300">Hi, I am Nishant Jawla. I am pursuing my Bachelor's Degree in Computer Science & Engineering from KIET Group of Institutions(Batch 2019-23).
 I enjoy coding as well as designing.
-Being consistent to my passion I've developed various web/mobile applications. I always push myself for exploring new and interesting things.
+Being consistent to my passion I've developed various web applications. I always push myself for exploring new and interesting things.
 If not coding or designing you'll find me with my guitar or maybe in the world made of my story books.</p>
 
-## Check out my [Portfolio Website](https://reverent-brahmagupta-2a7c77.netlify.app/)
+<!-- ## Check out my [Portfolio Website](https://reverent-brahmagupta-2a7c77.netlify.app/)
 
-<img align='right' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="350">
+<img align='right' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="350"> -->
 
-- 🔭 I’m currently working on **React, ReactNative Development**
+-  I’m currently working on **Hasura, Graphql**
 
-- 🌱 I’m currently learning **Data Structures**
+-  I’m currently learning **Data Structures**
 
-- 💙 I love **Designing and Developing**
+-  I love **Designing and Developing**
 
-- 👯 I’m looking to collaborate on **Anything that make me learn something new🙌**
+-  I’m looking to collaborate on **Anything that make me learn something new**
 
-- Currently working on a website for my Podcast. <a href="https://github.com/NishantJawla/ACupof20">**click here**</a> to check it out.
+- Currently working on a website for learning graphql. <a href="https://github.com/NishantJawla/My-Maps">**click here**</a> to check it out.
 
-- 💬 Ask me about **Universe🔯 (I really read about it sometimes😅) or some tech book/series**
+-  Ask me about **Universe🔯 (I really read about it sometimes😅) or some tech book/series**
 
-- 📫 How to reach me **Just text me on LinkedIn, Insta etc.**
+-  How to reach me **Just text me on LinkedIn, Insta etc.**
 
-- ⚡ Fun fact **"JS is one of the most lovable programming language. And there are many JS developers r present in the community. So, are you dating someone?😅🎉"
-IF NO THEN BE READY TO FIND SOMEONE😂 BECAUSE Even you try to hide your problem, we’ll catch it and resolve it**
 
 
 <h1 align="center"></h1>
